@@ -1,4 +1,4 @@
-[![Arjun Regmi Chhetri](https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png)](https://arjun-chhetri.epizy.com/?i=1)
+[![Arjun Regmi Chhetri](https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png)](https://arjunregmichhetri.vercel.app/)
 
 
 
