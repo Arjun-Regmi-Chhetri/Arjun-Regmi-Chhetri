@@ -15,7 +15,7 @@ _Explore my work and connect with me_
   <a href="https://x.com/arjun_bdr_xetri" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>&nbsp;
   <a href="https://www.tiktok.com/@arjun_regmi_xetri" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>&nbsp;
   <a href="https://www.facebook.com/arjun.xetri.5680/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="https://www.instagram.com/arjun_regmi_xetri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_arjun_xetri_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 
