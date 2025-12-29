@@ -17,3 +17,8 @@ _Explore my work and connect with me_
   <a href="https://www.facebook.com/arjun.xetri.5680/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="https://www.instagram.com/arjun_regmi_xetri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+<a href="https://www.linkedin.com/in/arjun-regmi-chhetri/" target="_blank" rel="noopener noreferrer">
+  LinkedIn
+</a>
+
