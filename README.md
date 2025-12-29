@@ -10,8 +10,10 @@ _Explore my work and connect with me_
 <br />
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-regmi-chhetri/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/arjun_bdr_xetri)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@arjun_regmi_xetri)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/arjun.xetri.5680/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arjun_regmi_xetri/)
+<p align="start">
+  <a href="https://www.linkedin.com/in/arjun-regmi-chhetri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/arjun_bdr_xetri" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@arjun_regmi_xetri" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>&nbsp;
+  <a href="https://www.facebook.com/arjun.xetri.5680/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.instagram.com/arjun_regmi_xetri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
