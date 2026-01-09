@@ -1,11 +1,11 @@
-[![Arjun Regmi Chhetri](https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png)](https://arjunregmichhetri.vercel.app/)
+[![Arjun Regmi Chhetri](https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png)](https://arjunregmichhetri.com/)
 
 
 # Arjun Regmi Chhetri
 
 _Explore my work and connect with me_
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arjunregmichhetri.vercel.app-2ea44f?style=flat&logo=vercel)](https://arjunregmichhetri.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arjunregmichhetri.com-2ea44f?style=flat&logo=vercel)](https://arjunregmichhetri.com/)
 
 <br />
 
