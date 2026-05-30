@@ -1,12 +1,15 @@
 <p align="center">
-  <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" height="270" alt="Gravatar" style="border-radius:50%;margin-right: 20px;" />
-  </a>
-  <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" height="270" alt="Arjun Regmi Chhetri" style="border-radius:50%;" />
-  </a>
+  <span style="display: inline-block; vertical-align: middle;">
+    <a href="https://arjunregmichhetri.com/">
+      <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" alt="Gravatar" height="120" style="border-radius:50%;max-width:100%;height:auto;">
+    </a>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <a href="https://arjunregmichhetri.com/">
+      <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" alt="Arjun Regmi Chhetri" height="120" style="border-radius:50%;max-width:100%;height:auto;">
+    </a>
+  </span>
 </p>
-
 <p align="center">
   <b>Software Developer</b>
 </p>
