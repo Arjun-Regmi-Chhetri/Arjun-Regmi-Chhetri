@@ -1,15 +1,14 @@
 <p align="center">
   <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" height="180" alt="Gravatar" style="border-radius:50%;margin-right: 20px;" />
+    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" height="270" alt="Gravatar" style="border-radius:50%;margin-right: 20px;" />
   </a>
   <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" height="180" alt="Arjun Regmi Chhetri" style="border-radius:50%;" />
+    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" height="270" alt="Arjun Regmi Chhetri" style="border-radius:50%;" />
   </a>
 </p>
 
-<h1 align="center">Arjun Regmi Chhetri</h1>
 <p align="center">
-  <b>Software Developer | Tech Enthusiast | Lifelong Learner</b>
+  <b>Software Developer</b>
 </p>
 <p align="center">
   <a href="https://arjunregmichhetri.com/" target="_blank">
@@ -48,17 +47,7 @@ Hello! I'm **Arjun Regmi Chhetri**, a passionate Software Developer focused on b
 ---
 
 ## 📫 Contact
-- Email: [your@email.com](mailto:arjunxetri100@email.com)
+- Email: [arjunxetri100@email.com](mailto:arjunxetri100@email.com)
 - Portfolio: [arjunregmichhetri.com](https://arjunregmichhetri.com/)
-
----
-
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-<!-- Add more badges as needed -->
 
 ---
