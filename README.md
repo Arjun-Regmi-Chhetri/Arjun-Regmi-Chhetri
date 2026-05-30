@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=160" alt="Arjun Regmi Chhetri" height="130" style="border-radius:50%;max-width:100%;height:auto;">
+  <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi-chhetri.png?s=160" alt="Arjun Regmi Chhetri"  style="border-radius:50%;max-width:100%;height:auto;">
 </p>
 
 <h1 align="center">Arjun Regmi Chhetri</h1>
