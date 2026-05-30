@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gravatar.com/userimage/126071498/0095be98e2c0d1b85f82d8a1a7fa8060?size=160" alt="Arjun Regmi Chhetri" style="border-radius:50%;max-width:100%;height:auto;">
+  <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi-chhetri.png?s=160" alt="Arjun Regmi Chhetri" style="border-radius:50%;max-width:100%;height:auto;">
 </p>
 
 <h1 align="center">Arjun Regmi Chhetri</h1>
@@ -15,12 +15,12 @@
 
 ## About
 
-Creative and analytical Software Engineer with a proven commitment to building well-architected, robust, and scalable solutions. My expertise lies in full-stack web development, cloud platforms, automation, and DevOps. I enjoy leveraging modern technologies and frameworks to deliver impactful user and business outcomes. I have a passion for continuous learning, open-source projects, and sharing technical knowledge. When not coding, I love exploring new tools and contributing to the tech community.
+I am a passionate and curious software engineer who loves turning ideas into impactful products. With deep experience in full-stack development, cloud-native platforms, and automation, I thrive on building scalable, maintainable solutions that make a real difference. My interests include modern web frameworks, developer productivity, infrastructure as code, and open-source collaboration. Dedicated to continuous learning, I enjoy sharing knowledge and experimenting with new tech. Let's connect to build, solve, and innovate together!
 
-Key interests & skills:
-- Modern full-stack web development (JavaScript/TypeScript, React, Node.js, Python)
-- Cloud-native architecture, CI/CD, and DevOps best practices
-- Infrastructure as Code & automation (Docker, Kubernetes, Terraform)
-- Technical writing, mentorship, and collaboration
+**Key interests & experience:**
+- Full-stack web development (JavaScript/TypeScript, React, Node.js, Python)
+- Cloud engineering, CI/CD, and DevOps
+- Infrastructure automation (Docker, Kubernetes, Terraform)
+- Open source, writing, and tech mentorship
 
 ---
