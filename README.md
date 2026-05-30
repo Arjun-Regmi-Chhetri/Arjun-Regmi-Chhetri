@@ -48,7 +48,7 @@ Hello! I'm **Arjun Regmi Chhetri**, a passionate Software Developer focused on b
 ---
 
 ## 📫 Contact
-- Email: [your@email.com](mailto:your@email.com)
+- Email: [your@email.com](mailto:arjunxetri100@email.com)
 - Portfolio: [arjunregmichhetri.com](https://arjunregmichhetri.com/)
 
 ---
