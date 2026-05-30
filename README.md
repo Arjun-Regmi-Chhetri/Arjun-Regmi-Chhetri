@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" height="120" alt="Gravatar" style="border-radius:50%;margin-right: 20px;" />
+    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun-regmi.png?s=120" height="180" alt="Gravatar" style="border-radius:50%;margin-right: 20px;" />
   </a>
   <a href="https://arjunregmichhetri.com/">
-    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" height="120" alt="Arjun Regmi Chhetri" style="border-radius:50%;" />
+    <img src="https://github.com/Arjun-Regmi-Chhetri/Arjun-Regmi-Chhetri/blob/main/arjun.png" height="180" alt="Arjun Regmi Chhetri" style="border-radius:50%;" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 ---
 
 ## 👋 About Me
-Hello! I'm **Arjun Regmi Chhetri**, a passionate Software Developer focused on building impactful and innovative solutions. I love exploring new technologies and sharing my learnings with the community.
+Hello! I'm **Arjun Regmi Chhetri**, a passionate Software Developer focused on building impactful and innovative solutions. I love exploring new technologies and sharing my learnings with the communit[...]
 
 - 💻 Experienced with full-stack web development
 - 🚀 Interested in DevOps, cloud, and automation
@@ -62,9 +62,3 @@ Hello! I'm **Arjun Regmi Chhetri**, a passionate Software Developer focused on b
 <!-- Add more badges as needed -->
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Regmi-Chhetri&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
